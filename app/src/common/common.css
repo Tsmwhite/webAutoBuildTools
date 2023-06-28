@@ -1,0 +1,49 @@
+.zm-base-container {
+    background: #FFFFFF;
+    padding: 24px;
+}
+
+.zm-base-container.normal {
+    background: #f0f2f5;
+}
+
+.zm-flex {
+    display: flex;
+}
+
+.zm-flex-between {
+    display: flex;
+    justify-content: space-between;
+}
+
+.mt16 {
+    margin-top: 16px;
+}
+
+.mt24 {
+    margin-top: 24px;
+}
+
+.ml16 {
+    margin-left: 16px;
+}
+
+.mr16 {
+    margin-right: 16px;
+}
+
+.ml4 {
+    margin-left: 4px;
+}
+
+.mr4 {
+    margin-right: 4px;
+}
+
+.ml8 {
+    margin-left: 8px;
+}
+
+.mr8 {
+    margin-right: 8px;
+}
